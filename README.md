@@ -12,7 +12,6 @@ A platform for book lovers to browse, share, and discuss books and articles with
 - Register using **email** or **social accounts** (Google, Facebook)
 - **Secure login** with **password hashing**
 - **Password reset** and **email verification**
-- Edit profile details (image, bio, etc.)
 
 #### 1.2 Browsing and Searching 🔍
 - Browse books and articles by **categories**, **authors**, **genres**, or **popularity**
